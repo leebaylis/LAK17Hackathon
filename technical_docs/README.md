@@ -19,7 +19,7 @@ _simply transcribed from the wordpress site_
 
 - Sample data sets uploaded to the above hackathon store including student data, VLE, attendance, and library use as well as sample predictions.  Whilst the data will be generated, it will follow a similar profile to the live data set.
 
-- Jisc’s Universal xAPI Translator, which allows data to be rapidly converted from text files into any xAPI profile, allowing easy testing of new recipes and profiles. You can upload JSON templates and tsv data to https://lakemitter.data.alpha.jisc.ac.uk/xapi using credentials supplied on the day, and they will be parsed, converted to xapi, and submitted to the hackathon store above.The xAPI Translator uses the hackathon store's write access key, which will also be available on request at the hackathon.
+- Jisc’s Universal xAPI Translator, which allows data to be rapidly converted from text files into any xAPI profile, allowing easy testing of new recipes and profiles. You can upload JSON templates and tsv data to https://lakemitter.data.alpha.jisc.ac.uk/xapi using credentials supplied on the day, and they will be parsed, converted to xapi, and submitted to the hackathon store above.The xAPI Translator uses the hackathon store's write access key, which will also be available on request at the hackathon. To connect, use webdav -- either on OSX Finder, go, connect to server -- or on windows explorer, right click computer, and select map network drive. 
 
 - Analytics Labs – a secure desktop environment, allowing creation of visualizations using Tableau. Jisc has a limited number of licenses available, and so accounts can be created on demand on the day if required!
 
